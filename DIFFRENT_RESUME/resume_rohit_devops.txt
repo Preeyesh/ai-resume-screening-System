@@ -1,0 +1,23 @@
+Rohit Gupta
+Email: rohit.gupta@gmail.com | Phone: 9856781234
+
+EDUCATION
+B.Tech in Computer Science - BITS Pilani (2019)
+
+EXPERIENCE
+DevOps Engineer at Wipro - 4 years
+- Managed AWS and Azure cloud infrastructure
+- Set up CI/CD pipelines using Jenkins and GitHub Actions
+- Containerized applications using Docker and Kubernetes
+- Infrastructure as code using Terraform
+- Linux server administration and bash scripting
+- Monitoring using Grafana and Prometheus
+
+SKILLS
+AWS, Azure, Docker, Kubernetes, Jenkins, GitHub Actions, Terraform,
+Linux, Bash, Grafana, Prometheus, CI/CD, Git, Python
+
+PROJECTS
+- Automated deployment pipeline for microservices
+- Kubernetes cluster setup on AWS EKS
+- Infrastructure monitoring dashboard using Grafana

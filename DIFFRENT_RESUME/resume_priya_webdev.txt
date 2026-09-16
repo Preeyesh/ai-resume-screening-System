@@ -1,0 +1,22 @@
+Priya Singh
+Email: priya.singh@gmail.com | Phone: 9812345678
+
+EDUCATION
+B.Tech in Information Technology - VIT Vellore (2021)
+
+EXPERIENCE
+Full Stack Developer at Infosys - 2 years
+- Built web applications using React and Node.js
+- Designed REST APIs using Express.js
+- Used MongoDB and PostgreSQL for database management
+- Worked with HTML, CSS, JavaScript and TypeScript
+- Version control using Git and GitHub
+
+SKILLS
+JavaScript, React, Node.js, HTML, CSS, MongoDB, PostgreSQL,
+REST API, Git, GitHub, Express.js, TypeScript, Agile, Scrum
+
+PROJECTS
+- E-commerce website using React and Node.js
+- Blog app with user authentication using JWT
+- Real-time chat app using Socket.io

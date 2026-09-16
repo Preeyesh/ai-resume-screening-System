@@ -1,0 +1,22 @@
+Ankit Sharma
+Email: ankit.sharma@gmail.com | Phone: 9876543210
+
+EDUCATION
+B.Tech in Computer Science - IIT Delhi (2020)
+
+EXPERIENCE
+Data Scientist at TCS - 3 years
+- Built machine learning models using Python and scikit-learn
+- Worked on data analysis and visualization using Pandas, NumPy, Tableau
+- Used SQL for database queries and reporting
+- Deployed models on AWS cloud
+- Experience with deep learning using TensorFlow and PyTorch
+
+SKILLS
+Python, Machine Learning, Deep Learning, SQL, Pandas, NumPy, TensorFlow,
+Scikit-learn, Tableau, Power BI, AWS, Statistics, Data Analysis, NLP
+
+PROJECTS
+- Customer Churn Prediction using Logistic Regression
+- Sales Forecasting using Time Series Analysis
+- Sentiment Analysis using NLP
