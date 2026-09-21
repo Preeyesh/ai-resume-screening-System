@@ -564,7 +564,7 @@ with st.sidebar:
 
     st.markdown(
         ":red[*Made with love by* "
-        "**Sarthak Jain**]"
+        "**Preeyesh Joshi**]"
     )
 
 

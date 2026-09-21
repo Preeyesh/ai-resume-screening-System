@@ -22,7 +22,6 @@ env/
 *.ipynb
 
 # Models / Pickle files
-*.pkl
 *.pickle
 *.joblib
 

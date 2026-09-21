@@ -71,4 +71,4 @@ ai-resume-screening/
 └── label_encoder.pkl
 ```
 
-## Made with love by Sarthak Jain
+## Made with love by Preeyesh Joshi
